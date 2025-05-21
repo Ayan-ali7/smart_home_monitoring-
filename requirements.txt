@@ -1,0 +1,6 @@
+paho-mqtt
+pymysql
+pymongo
+py2neo
+pandas
+matplotlib
